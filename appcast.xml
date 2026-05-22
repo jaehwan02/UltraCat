@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>UltraCat</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 22 May 2026 20:06:26 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0/UltraCat-1.0-1.dmg" length="3518389" type="application/octet-stream" sparkle:edSignature="pWytbZ3DrGbJ5CEkNjeVvs01cIMdZkNxCQ3Dg5c9PHUZ5JmjW8/8Ar2Deo85x49yoJtNs2iC0V7wvAIzeD+wAA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 73MGOZ1WR+voQrzxRgGiHhdHRqsY4TPdmgX2INS99HyVtevSpAB6WYZ49ncwPKE59wZaAYYhhtvKCvJOgE/0CA==
+length: 1036
+-->
