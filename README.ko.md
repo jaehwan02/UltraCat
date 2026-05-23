@@ -12,9 +12,6 @@ UltraCat은 macOS 메뉴바에서 시스템 상태를 확인하고 팬 제어와
   <a href="./README.md">English</a>
 </p>
 
-## Demo
-https://github.com/user-attachments/assets/fe582342-9e86-4217-bc15-f5d0d796a8cf
-
 ## 다운로드
 
 최신 버전은 GitHub Releases에서 받을 수 있습니다.
@@ -22,6 +19,14 @@ https://github.com/user-attachments/assets/fe582342-9e86-4217-bc15-f5d0d796a8cf
 ### [UltraCat 최신 릴리즈 다운로드](https://github.com/jaehwan02/UltraCat/releases/latest/download/UltraCat.dmg)
 
 DMG 파일을 내려받은 뒤 열고, `UltraCat`을 `Applications` 폴더로 드래그해서 설치하세요.
+
+## Demo
+
+<img width="510" alt="펜 제어 기능 스크린샷" src="https://github.com/user-attachments/assets/e62d90bc-bb45-4411-8287-49a3a9fd7af3" />
+<img width="510" alt="시스템 상태 모니터링 스크린샷" src="https://github.com/user-attachments/assets/e9228aa8-e268-4d87-a518-1c337142d27c" />
+<img width="510" alt="잠자기 제어 기능 스크린샷" src="https://github.com/user-attachments/assets/376210c8-b165-4365-8d96-f66df60bee22" />
+
+https://github.com/user-attachments/assets/fe582342-9e86-4217-bc15-f5d0d796a8cf
 
 ## 업데이트
 
