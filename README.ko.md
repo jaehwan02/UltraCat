@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/fe582342-9e86-4217-bc15-f5d0d796a8cf
 
 최신 버전은 GitHub Releases에서 받을 수 있습니다.
 
-[UltraCat 최신 릴리즈 다운로드](https://github.com/jaehwan02/UltraCat/releases/latest)
+### [UltraCat 최신 릴리즈 다운로드](https://github.com/jaehwan02/UltraCat/releases/latest/download/UltraCat.dmg)
 
 DMG 파일을 내려받은 뒤 열고, `UltraCat`을 `Applications` 폴더로 드래그해서 설치하세요.
 
