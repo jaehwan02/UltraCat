@@ -1,3 +1,5 @@
+<img width="100" height="100" alt="UltraCatIcon" src="https://github.com/user-attachments/assets/de2f2f54-8338-48f2-960a-4bd1821c2f11" />
+
 # UltraCat
 
 UltraCat is a macOS menu bar utility that lets you monitor system status, control fans, and manage sleep settings.
