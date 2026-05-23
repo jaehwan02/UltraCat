@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/9fd027b5-87a5-4982-9e0e-51a02806b73e
 
 You can download the latest version from GitHub Releases.
 
-[Download the latest UltraCat release](https://github.com/jaehwan02/UltraCat/releases/latest)
+### [Download the latest UltraCat release](https://github.com/jaehwan02/UltraCat/releases/latest/download/UltraCat.dmg)
 
 After downloading the DMG file, open it and drag `UltraCat` into the `Applications` folder to install it.
 
