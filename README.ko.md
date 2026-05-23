@@ -4,6 +4,12 @@ UltraCat은 macOS 메뉴바에서 시스템 상태를 확인하고 팬 제어와
 
 소스코드는 공개하지 않으며, 이 저장소는 앱 배포와 업데이트 제공을 위한 저장소입니다.
 
+<p align="left">
+  🌐 Language:
+  <a href="./README.ko.md">한국어</a> |
+  <a href="./README.md">English</a>
+</p>
+
 ## Demo
 https://github.com/user-attachments/assets/fe582342-9e86-4217-bc15-f5d0d796a8cf
 
