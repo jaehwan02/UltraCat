@@ -5,14 +5,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>UltraCat</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Sat, 23 May 2026 03:36:09 +0900</pubDate>
+            <pubDate>Sat, 23 May 2026 10:43:46 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.1/UltraCat-1.0.1-2.dmg" length="3302489" type="application/octet-stream" sparkle:edSignature="FLYawVTrQ2kd1K+Wk9E7JihedYsrcMrhHUjgikTF9SPxBYkLQ3vCX2wlcQmAe8ofzqJeVGtoCurkG9LRgeCmCA=="></enclosure>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.1/UltraCat-1.0.1-2.dmg" length="3270733" type="application/octet-stream" sparkle:edSignature="DA7HSV6DR+tpCBVkoNamONzVNWFTVJOx5fsOl9ixNF1IMTC7Wfd5JDM1cR8c2f6wBsGYOGUuHhm+YvMXSW+mDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: +yaHKcaBFhTZmBABNWIvxpUOYLPJVGAQJXPueHCSbu1g54P0PThVScgmMGtDxdWro1ODDFxNlkZ3EmQBxck7DA==
+edSignature: AOucTMa6qtqcKICAjXTmeHcY1YTZ2H62RVfLcnp400I9uUQrPiSTK7ykGEfgdZhMZJtuQknrvk8A3QgAzDFpDQ==
 length: 1044
 -->
