@@ -1,3 +1,5 @@
+<img width="100" height="100" alt="UltraCatIcon" src="https://github.com/user-attachments/assets/de2f2f54-8338-48f2-960a-4bd1821c2f11" />
+
 # UltraCat
 
 UltraCat은 macOS 메뉴바에서 시스템 상태를 확인하고 팬 제어와 잠자기 설정을 관리할 수 있는 유틸리티입니다.
