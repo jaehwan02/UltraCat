@@ -12,10 +12,6 @@ The source code is not publicly available. This repository is used for app distr
   <a href="./README.md">English</a>
 </p>
 
-## Demo
-
-https://github.com/user-attachments/assets/9fd027b5-87a5-4982-9e0e-51a02806b73e
-
 ## Download
 
 You can download the latest version from GitHub Releases.
@@ -23,6 +19,15 @@ You can download the latest version from GitHub Releases.
 ### [Download the latest UltraCat release](https://github.com/jaehwan02/UltraCat/releases/latest/download/UltraCat.dmg)
 
 After downloading the DMG file, open it and drag `UltraCat` into the `Applications` folder to install it.
+
+
+## Demo
+
+<img width="505" height="476" alt="스크린샷 2026-05-24 오전 2 19 59" src="https://github.com/user-attachments/assets/2ae853bc-d663-40ae-bc81-9ca03bc63c8e" />
+<img width="505" height="416" alt="스크린샷 2026-05-24 오전 2 20 19" src="https://github.com/user-attachments/assets/f9a75905-977a-482f-85ff-baff0037b9c6" />
+<img width="505" height="354" alt="스크린샷 2026-05-24 오전 2 20 35" src="https://github.com/user-attachments/assets/e80d31ee-5b4e-4ec5-b198-9db898fc1438" />
+
+https://github.com/user-attachments/assets/9fd027b5-87a5-4982-9e0e-51a02806b73e
 
 ## Updates
 
