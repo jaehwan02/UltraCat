@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Wed, 27 May 2026 00:43:51 +0900</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Wed, 27 May 2026 00:59:07 +0900</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="CIjV7WrbtyT/CNDmsAD1aN9Xxh+LrMbWDnR6EA894VmANAzsniDl/YfyVxi6vqy7vlbTKCWKqGVPUdxd15whCQ==" sparkle:length="516">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.7-11.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.7/UltraCat-1.0.7-11.dmg" length="3396157" type="application/octet-stream" sparkle:edSignature="qBavX6ZxNusAyKdOB08GF/qjCb1Fwzc/QJrIqlPnkyjOk8DzUSuAf3m8cej0MO2N7aTvSg8reOG7ilz3Jgq/Aw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="RIh5fgwBLE4nKXr2hvTAuDZy9BVUfR/FmWlijD4+A3s+UHTLUbx+gox85F9OJUTHl2j8cL6kZ6PGYC3mXmglBA==" sparkle:length="426">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.8-12.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.8/UltraCat-1.0.8-12.dmg" length="3396261" type="application/octet-stream" sparkle:edSignature="EUrUPZ2jeGn+PUnUIz6qoK3YKt6U/ibSUIbF+ujhjl/vS3PAAa5EnrfWvkSF+E0p1Y+hbtaCj3soLlLNI5n/CA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: lRZ7ZR37z1qe9QXHjMM/8SmzRVdLaxJExG6LyuqHHw4rq1ADn1mZ8jYJSEjx1F4J0i6Pr46c3PUEZQdSe3s5Bw==
+edSignature: g/9wTzMgDaRLeqzyjeX1Wd5xbTeyZgNbQvtVa0RdmzyHqEUriCwPYqw6Os9Y4adl2Hc+s+nUyg9auiKz5AAZCA==
 length: 1301
 -->
