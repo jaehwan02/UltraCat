@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Tue, 26 May 2026 21:18:15 +0900</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.7</title>
+            <pubDate>Wed, 27 May 2026 00:43:51 +0900</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="/yHKqAiKBg5OEim4h/RtIRVCJALrM9OCQAKzuK8ewJHdRGBYFYXxtirlz8ZkWP8DHIYSfFU6bS/0P7/zhCBRAg==" sparkle:length="1277">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.6-10.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.6/UltraCat-1.0.6-10.dmg" length="3385416" type="application/octet-stream" sparkle:edSignature="z5Pjdac5qdjIR+pVy+I/kljcYa4dLM3TGaCrKCYL0KhQXkiHNbpE/UdvJ9av167UOw/PsASNJnrqTy0R4O52Bg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="CIjV7WrbtyT/CNDmsAD1aN9Xxh+LrMbWDnR6EA894VmANAzsniDl/YfyVxi6vqy7vlbTKCWKqGVPUdxd15whCQ==" sparkle:length="516">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.7-11.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.7/UltraCat-1.0.7-11.dmg" length="3396157" type="application/octet-stream" sparkle:edSignature="qBavX6ZxNusAyKdOB08GF/qjCb1Fwzc/QJrIqlPnkyjOk8DzUSuAf3m8cej0MO2N7aTvSg8reOG7ilz3Jgq/Aw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZKfeZlmqWmspZ0t3+k3yZex5DATu5x/9ImmYl83kz0qvYuUhizOpYJUMHObaxvkQT5glBS5STtl4RigpI/7yDw==
-length: 1302
+edSignature: lRZ7ZR37z1qe9QXHjMM/8SmzRVdLaxJExG6LyuqHHw4rq1ADn1mZ8jYJSEjx1F4J0i6Pr46c3PUEZQdSe3s5Bw==
+length: 1301
 -->
