@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>UltraCat</title>
         <item>
             <title>1.0.6</title>
-            <pubDate>Tue, 26 May 2026 03:20:30 +0900</pubDate>
-            <sparkle:version>9</sparkle:version>
+            <pubDate>Tue, 26 May 2026 21:18:15 +0900</pubDate>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="YYXhQ14srNVpyrng7ahjnIjN81TIGxuQQ99ASGYE+yWRjMiuH3Pw3RlysdgB/xaQgR2R1AbYzWntjXnuyHUvDg==" sparkle:length="885">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.6-9.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.6/UltraCat-1.0.6-9.dmg" length="3352685" type="application/octet-stream" sparkle:edSignature="JylR9fQZQMuK+uj710H6SEqkhgweSkb2NCOsmN+DBr+ogys8F9YbVsH+8xgKTwZVj5BWGR0Yj7stU0hzNj3cDg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="/yHKqAiKBg5OEim4h/RtIRVCJALrM9OCQAKzuK8ewJHdRGBYFYXxtirlz8ZkWP8DHIYSfFU6bS/0P7/zhCBRAg==" sparkle:length="1277">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.6-10.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.6/UltraCat-1.0.6-10.dmg" length="3385416" type="application/octet-stream" sparkle:edSignature="z5Pjdac5qdjIR+pVy+I/kljcYa4dLM3TGaCrKCYL0KhQXkiHNbpE/UdvJ9av167UOw/PsASNJnrqTy0R4O52Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: O/ImfRGJH21+l9eaiaTYlwDVg0pCNxEF2YXdQbfeBa74EZ3S1mZE+r5uRGCrt2vMm98M/N2wNI/szwPuqHNuCA==
-length: 1298
+edSignature: ZKfeZlmqWmspZ0t3+k3yZex5DATu5x/9ImmYl83kz0qvYuUhizOpYJUMHObaxvkQT5glBS5STtl4RigpI/7yDw==
+length: 1302
 -->
