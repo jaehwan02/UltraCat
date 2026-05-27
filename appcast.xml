@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.21</title>
-            <pubDate>Wed, 27 May 2026 15:12:57 +0900</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+            <title>1.0.22</title>
+            <pubDate>Wed, 27 May 2026 15:31:05 +0900</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="8Vei4T6N8usVekXYANgcP8RR/wIu/DvQdzEoqTaddf1+a8STDEYpjVO1fRAVNYKIxaXbhpB6oNeDbJiai6G/Cg==" sparkle:length="575">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.21-25.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.21/UltraCat-1.0.21-25.dmg" length="3499497" type="application/octet-stream" sparkle:edSignature="7QJ7KK4GiFBOqBNVm7unqUXF6fNJsWQc9rwaBZAwX2i2zjwetCAAmhx0hWxQFyQsEIbo871rcKCKHceSDwq3BA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="3xhu5gwrdHKtN9V1wOM7kXCWRf/scO33ISQ0mmm4AvHvro6cC9Jvh+h6BsxfasWnGzumZl0r/afYrIDOnGsnCg==" sparkle:length="683">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.22-26.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.22/UltraCat-1.0.22-26.dmg" length="3499555" type="application/octet-stream" sparkle:edSignature="sPlMXKdJRu+il+shfIjbd8kpEEeCaVwSIxAazHLCmw8r3F8mxD0FRARPBnt8Ba4siShBMlVlV4aHD6EyAIfaDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: np/KmntcdKw7RZjKXQn6K4U/oufGyK5YlVkcIVD1E5XmPciqcHN3TNFf//Pvx6T2ZFxNleMkkxRqu5CsNmasCg==
+edSignature: qa0yEt5h8IhloLe6ntn3BDkd7GTKlRuS2n+d9Qm/PUFPTT0jp0ItOxIP1hk5irnGnJsgBMO3mfkXm7BLHKRPBw==
 length: 1306
 -->
