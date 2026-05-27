@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.18</title>
-            <pubDate>Wed, 27 May 2026 14:49:08 +0900</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <title>1.0.19</title>
+            <pubDate>Wed, 27 May 2026 15:01:41 +0900</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="XPnV64AHVkCQtImCAL2riw+q1rzXvhB0p1AWHNyxAdOYJXAzP+MDW7UE3JSlpgLtSW5j0IsGpXJE6on0q0eKAw==" sparkle:length="426">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.18-22.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.18/UltraCat-1.0.18-22.dmg" length="3495205" type="application/octet-stream" sparkle:edSignature="k2bbARPrdrqSlSPrOw4WLuHGG/4Ha3QKnTSUqykusRHJ8yoBhGdbNwE/on7FUELQcCbTyBkmVaDzrjObzTfDAA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="yQjsnwyzFzgzmEXVDg9r6ofpcJYcOUhPkKjegFD0utzMbE8Ozjf0OuwIxqJOqr0u15rrLzVAGxjjxlx8EeQmDA==" sparkle:length="421">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.19-23.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.19/UltraCat-1.0.19-23.dmg" length="3496658" type="application/octet-stream" sparkle:edSignature="rmhEXbMQnnqssz9f0iotyWWIv/H0m4hojbghURDqbzdZU+UvJni+3C6d+Qmy0grz5wKG4z8UCIXEQpvzAMF7Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: EzKx8ctjvDdykBAg0OlcMkEUEETTZEa7iuj9ev8mKaQjP9m50/dRx3p6emtcr/pPvxbCnUCHKMJ9bS29o+/HAw==
+edSignature: sBDjLMrXIAWcPUOqqz5AxIh2+kdXud4vlTQ6fQUSUW3OfcSBMoO7j725obvNthdIxnsobBTXbT6Q7xq29KubAQ==
 length: 1306
 -->
