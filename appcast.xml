@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.14</title>
-            <pubDate>Wed, 27 May 2026 13:27:23 +0900</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <title>1.0.15</title>
+            <pubDate>Wed, 27 May 2026 13:41:01 +0900</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="sBRaaos0ssQKnXSi0vmS6w4HDFFwXHpGdQDVMwdacJW7N9+mju3kRCpYJGFxiKv+pKb4Vh2XdwZhT2z5xpGtCw==" sparkle:length="431">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.14-18.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.14/UltraCat-1.0.14-18.dmg" length="3476716" type="application/octet-stream" sparkle:edSignature="OxbAyg1lrWLS8+uh4VL1rYYRfG0SbS0vplRBtugnk8xHQhduEBxyx24BtpvQUwIN8NDzAB547KeBRGfDWnuhBg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="7BgOZk2ook+DwLTq99wOG5/KzxqeeiZhIgE/HS6jYkzHWs6cTLf6Y9tIIlGRdD4dAj9FdSE0Iw5zXkxKidMtAg==" sparkle:length="510">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.15-19.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.15/UltraCat-1.0.15-19.dmg" length="3491098" type="application/octet-stream" sparkle:edSignature="b8rdN6Gj15WGvFaeeSr3xo6Xc8JqUkKP7h39ayaHuo065DosXVWThl8YaqshnzrVe4RHjXTwk4vkrGZva4i8BQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: JWMbFVh+DXAf+/Bcsq9CraaIsSrHg6W/rqjdcQff5N+pXOXu3y+F8accPFyGAqoZx8T0LBQfleLd/fLRbSLOAg==
+edSignature: HLneeM+niaEdAfpscEYpfnhHAZggXmslrgp0fuQdG9UTWot0oxpcyMjJBlchLQ4aqd6WckIU2Kc9WW2AmOfmCQ==
 length: 1306
 -->
