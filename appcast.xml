@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.20</title>
-            <pubDate>Wed, 27 May 2026 15:04:37 +0900</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <title>1.0.21</title>
+            <pubDate>Wed, 27 May 2026 15:12:57 +0900</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="mSBWSTQ5cbLw2PDlIVJG080BdipdqX4p4mczRUSKWX2dblVI7gTPHC4xZVVjLduSj4B+gbfUoWgmxYXcogM5BA==" sparkle:length="555">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.20-24.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.20/UltraCat-1.0.20-24.dmg" length="3497153" type="application/octet-stream" sparkle:edSignature="pa9gpRxmdtMTJZPB73dhmqZBL2wtxcIxONwUVloLv+o8Ty38OXBxB2h1uZk8Mg35Dtdbhp3oCHRS+aXcS21oDw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="8Vei4T6N8usVekXYANgcP8RR/wIu/DvQdzEoqTaddf1+a8STDEYpjVO1fRAVNYKIxaXbhpB6oNeDbJiai6G/Cg==" sparkle:length="575">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.21-25.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.21/UltraCat-1.0.21-25.dmg" length="3499497" type="application/octet-stream" sparkle:edSignature="7QJ7KK4GiFBOqBNVm7unqUXF6fNJsWQc9rwaBZAwX2i2zjwetCAAmhx0hWxQFyQsEIbo871rcKCKHceSDwq3BA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iCcTFXTzYt8DLgFD6pNmMYferXT4Q5kMS1WcpEXXnPXIFq0G7ghdDY3YOxafDpY48tZLmfTkUGJb3sQMl6M3AQ==
+edSignature: np/KmntcdKw7RZjKXQn6K4U/oufGyK5YlVkcIVD1E5XmPciqcHN3TNFf//Pvx6T2ZFxNleMkkxRqu5CsNmasCg==
 length: 1306
 -->
