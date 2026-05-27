@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.16</title>
-            <pubDate>Wed, 27 May 2026 13:57:10 +0900</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <title>1.0.17</title>
+            <pubDate>Wed, 27 May 2026 14:33:54 +0900</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="NMGVaZ/RwCH/H5UJk9aWr/IlhSa9S+vadJxFknGNInBD560dpLJPOqIjuXX4yxPlLPHKra3OfrFTW7a0SXX+Cg==" sparkle:length="534">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.16-20.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.16/UltraCat-1.0.16-20.dmg" length="3491804" type="application/octet-stream" sparkle:edSignature="kOMgYU2RA4skWSl5MkXq8XBCvrpYn+ecd6aDrrtNLc/QU7nqQ7FXHBRn+XP5iqt5HY9I1Sur2O3WDmG0kiD8Cw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="2vxrVHZGxmp+4uW4EBMaUAZSCvi9tnvf4r7C/P+1MWbSvKuGxNszI3s6tBx64/jcAYOochO5j/Gmn6fl6KG+Dg==" sparkle:length="512">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.17-21.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.17/UltraCat-1.0.17-21.dmg" length="3493289" type="application/octet-stream" sparkle:edSignature="wb9j4zioqgzGefQnzfwO+pNzGA/GZct2vVe7aROXHWB8u3sU1WD61UBRhWrlv8LCnXunqtu0qUyGQahrR65OAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: gY6h/e3q9P84lUpmJ/rjrKKKfEVewvjBjEVz9FdoG3Bbj6vwpSZOGF6EekngV8LXcPKKZwjLZzcKCLlfvbpdDA==
+edSignature: DFpEiqKKp8+nvgAh2FMRFkHWa+DExsRMx104HETVFOFwLa9zhKJh2eCWbOMv8eXApN7e75kTeF8wE5vs3Mw7BQ==
 length: 1306
 -->
