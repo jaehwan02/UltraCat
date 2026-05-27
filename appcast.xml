@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.17</title>
-            <pubDate>Wed, 27 May 2026 14:33:54 +0900</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <title>1.0.18</title>
+            <pubDate>Wed, 27 May 2026 14:49:08 +0900</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="2vxrVHZGxmp+4uW4EBMaUAZSCvi9tnvf4r7C/P+1MWbSvKuGxNszI3s6tBx64/jcAYOochO5j/Gmn6fl6KG+Dg==" sparkle:length="512">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.17-21.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.17/UltraCat-1.0.17-21.dmg" length="3493289" type="application/octet-stream" sparkle:edSignature="wb9j4zioqgzGefQnzfwO+pNzGA/GZct2vVe7aROXHWB8u3sU1WD61UBRhWrlv8LCnXunqtu0qUyGQahrR65OAw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="XPnV64AHVkCQtImCAL2riw+q1rzXvhB0p1AWHNyxAdOYJXAzP+MDW7UE3JSlpgLtSW5j0IsGpXJE6on0q0eKAw==" sparkle:length="426">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.18-22.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.18/UltraCat-1.0.18-22.dmg" length="3495205" type="application/octet-stream" sparkle:edSignature="k2bbARPrdrqSlSPrOw4WLuHGG/4Ha3QKnTSUqykusRHJ8yoBhGdbNwE/on7FUELQcCbTyBkmVaDzrjObzTfDAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: DFpEiqKKp8+nvgAh2FMRFkHWa+DExsRMx104HETVFOFwLa9zhKJh2eCWbOMv8eXApN7e75kTeF8wE5vs3Mw7BQ==
+edSignature: EzKx8ctjvDdykBAg0OlcMkEUEETTZEa7iuj9ev8mKaQjP9m50/dRx3p6emtcr/pPvxbCnUCHKMJ9bS29o+/HAw==
 length: 1306
 -->
