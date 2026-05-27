@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.12</title>
-            <pubDate>Wed, 27 May 2026 11:01:26 +0900</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <title>1.0.13</title>
+            <pubDate>Wed, 27 May 2026 12:30:05 +0900</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="bRGfBrUvQC2Yp0xpcGzTeW3Tjl1ZqKjCZZQJW0COYiLVL59TjOT3IYz5i5frJ5ishY4fs1yNPkxWSsfBQT2SCQ==" sparkle:length="449">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.12-16.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.12/UltraCat-1.0.12-16.dmg" length="3420378" type="application/octet-stream" sparkle:edSignature="5tCLt99fIzEQg2n5uXbCg1lcT4zhQkN2BtnKAWnC/+GWmLFkzGLf5ZcR38OocgWImYn8RmZYV2JTdhmblgOSDA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="tc9kYEfZ7pnqRZg2PGougGrlhz24UZNiXfPRCkYFqBmCm6xLEhuUBxQN5Qqe1PkoyHzRX3K71wg9rrx7N8rRAw==" sparkle:length="604">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.13-17.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.13/UltraCat-1.0.13-17.dmg" length="3476800" type="application/octet-stream" sparkle:edSignature="G7cMRgX+y0jjhwrpyoa9EK8ZNP/CClvUNR7vtwppKEjaanz7Pe+JfuUculj2vo2eLGqeqWKUPBA4Zi9WAPEIBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: UqZP3ZtiIx3IQt5b80Ax60lpsdtecRliJUIIdZPT0O+u1LcGtTpsjOOTj713sdB2xM4dzj48qOb8fJtkZHvZDw==
+edSignature: cnDqwQkqPIIx6rBf07yth1znBcPFvP6Oy00hPiDnWNAstsKmLQhcKyxbyrywpLIR/YJ9Q3NkUcJ8s1KCJEbmCA==
 length: 1306
 -->
