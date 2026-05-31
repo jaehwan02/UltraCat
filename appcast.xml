@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.28</title>
-            <pubDate>Sun, 31 May 2026 14:54:59 +0900</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+            <title>1.0.29</title>
+            <pubDate>Sun, 31 May 2026 21:28:32 +0900</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="srwYKny436nvKJBTeaIYvT9zio2wSHWx/XL4s296jiVOI5k624xE0tmnk6Wz785L5Bby3SXAIW3xtmeWC2gnAg==" sparkle:length="358">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.28-32.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.28/UltraCat-1.0.28-32.dmg" length="3535726" type="application/octet-stream" sparkle:edSignature="IPGs1Pj0axc6H7DwX0Y50mgntRLqjTtl73rWDZg1zMwBBK2tzCZkKjKdpcUJFhemXyvP3+TjuuVmFnFynJL0AA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="9RSB9iHdX3Fm6gw/8j3/Yt8odRbpPvDHEIK3JuHwFrOSfk2me5Qlfas6nmqDgSRFJYi6QijwOftWtmzJFpuxCA==" sparkle:length="319">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.29-33.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.29/UltraCat-1.0.29-33.dmg" length="3536969" type="application/octet-stream" sparkle:edSignature="xF5OHn4hADVLjrSu2F4UpdElTfxuT75PqZ0sPx4AhTBshCyhWZP1obojyG8HjPh42r8QTEpgh0mW2zCu7eatBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: L8wZk6+duQ2RrsJYBG/BHuQqSMajMoWGpS3PuZ5LG37PGDY3bmDANgvNQ9HSdGN2qCvfLEUG0/U0Rllzjp45DQ==
+edSignature: MYe/FM0AIIX+8qQsLBxUEMrV1qqoxWByMEQF2auukVf10jheC71PvtnnU2cgNt+ngDmFB8No0B2KIGS4pRKDAg==
 length: 1306
 -->
