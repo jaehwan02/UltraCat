@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.35</title>
-            <pubDate>Wed, 03 Jun 2026 02:12:55 +0900</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
+            <title>1.0.36</title>
+            <pubDate>Wed, 03 Jun 2026 02:24:37 +0900</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="ZGrpO5wZXFvOjXUtedNxTzgra22Tfk9cDDFC0aGjMO4AOx+JJ41ID456s4H4ETGTMdumYcaxPcS2rWf5v3TfAw==" sparkle:length="418">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.35-39.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.35/UltraCat-1.0.35-39.dmg" length="3591063" type="application/octet-stream" sparkle:edSignature="CMjcU2U3/7TwoVdp3cFvhtVEvUmgiaNUF/HoMRmMIiJHra1Gcnc0xbngoae+EaEDOIJoUkx8/jXaiNyfAe3SCw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="FlvvNHGTi67YsZ1jwFTDCumXTMz0qSdtx1j4aZO/eVelz87TZWWy8H7nMl2yv0Xtz6cZcuVjdV0FrpFij8wCCA==" sparkle:length="329">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.36-40.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.36/UltraCat-1.0.36-40.dmg" length="3591949" type="application/octet-stream" sparkle:edSignature="1GD1BnotIlCXyTLldmes27q79c7vpHTF18prSRRPyOAJJ+7BgxpR1vyCnEs3Q3fKTKbVxRq+TfAd5BPsA4+DDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: S1bCTyzP05ACb8IridVla05LttpAItrncueDqnEWBJABTCjRo1U6bwZ5hdirK+QAHvchhEjrnJn3p6Vz85k0DA==
+edSignature: h11ZXiYWBYihiGPMPPvFv9NZgBkgcl/4W+aX1fMIQ2rPfW8aWZ/+1ieUWd/OfSK/Uxvk4USYA3Y0mYlCPhUTAQ==
 length: 1306
 -->
