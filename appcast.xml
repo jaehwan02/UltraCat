@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.33</title>
-            <pubDate>Tue, 02 Jun 2026 20:28:55 +0900</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+            <title>1.0.34</title>
+            <pubDate>Tue, 02 Jun 2026 20:40:04 +0900</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="VgiCWt1eEIgiEWtTpjUbhKmnIxNiwfSA8SCsptrrevd4BJZUDHkEjNDY38P9L9l8t7WlS+64uB5BjS87tFFUAA==" sparkle:length="343">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.33-37.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.33/UltraCat-1.0.33-37.dmg" length="3552550" type="application/octet-stream" sparkle:edSignature="IN1O/ZmCmM31lAeiSPmWXNmGwcLo0Xmtjso5ujbbeDAtz+sdbFEAahsKjo0UO5Vz6cnJrbe5NpMplhim1oFyDQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="1Ccjt0EH1A6cPGQ5NL6N/pIzGR+SwGHrlLUuRJQvUODKTpBnSjShjVbE0o38AwTfMbllMPjzQZwR5eMSedCuAg==" sparkle:length="342">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.34-38.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.34/UltraCat-1.0.34-38.dmg" length="3553392" type="application/octet-stream" sparkle:edSignature="RIXn+2rLYjcuNyetz+CzCaibJ+EtD+6mes0PLFuRjWX94WDC7Mj422HQXxXqV4Fq7DzLBrPLQg8vXxZvTHVpDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tTFBJNPND7/LJt8NoHstG3zmXtvePjUZ/+ba0IEmrEN4gVnL0z8Poy7XLd2xDBIHwlOP/Vxzl5oB5yLTiL+aBw==
+edSignature: VYgskZLauGA060m4HgrR7MLUHKpTYFJ/j21R/PCYQ9i26jEVOTHWUU2AqYav+k4vvcQS7MB0to9PtXdhDM9wBQ==
 length: 1306
 -->
