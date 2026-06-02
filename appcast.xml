@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.31</title>
-            <pubDate>Tue, 02 Jun 2026 09:10:11 +0900</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+            <title>1.0.32</title>
+            <pubDate>Tue, 02 Jun 2026 09:17:20 +0900</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="QcbEHQER+rfpwRiVluEFJM4b1OM7ncqavJIEV6e2mV/+ErL8Aa3SbKmvSI+xnBz/vV+6xOkeeUs+cw0mO/CFDw==" sparkle:length="454">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.31-35.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.31/UltraCat-1.0.31-35.dmg" length="3555838" type="application/octet-stream" sparkle:edSignature="5o7Uo+uKAnhPSns8Ql7hM9ZDSG9hEMW81kftyZ1Z6VQKjQKfss3NU0lUspZt3XvPNo2leEQ/jEaxgVCDWzkdBA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="Fv3tHu1zStXqDkXeAKC1t4QREhJ3YiSDE5sNt9aMwX0Sat2hR9jPAie8zGp1WbhnxhnZHiCkMFuT19ivJA9DCA==" sparkle:length="324">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.32-36.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.32/UltraCat-1.0.32-36.dmg" length="3555814" type="application/octet-stream" sparkle:edSignature="zVkL07eXuNq3sWr5Q3tWWrKGMV8Ek/uVeSrnBclYhQM+UNTx/SpHcYYDB3AIselWVOIPwiRusV/E0iVKQTNWCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Bw6MutEl2OR3QtxvfzmpcfR4ECXRinWooqYGZmbiQQvo5LLtXSg+C0bBwBPA/HRQuE67VhyYDu6VysdI/66eBQ==
+edSignature: EY6VN/xA+QEE4nnhUbSyNIiiBUojoiOs4fsQvxXgsgz1ZBdLzAgBDoV1vBVJwbJoh7URxCuyzpxjHaCoYVU3CQ==
 length: 1306
 -->
