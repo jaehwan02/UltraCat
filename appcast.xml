@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.38</title>
-            <pubDate>Thu, 04 Jun 2026 21:32:24 +0900</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>1.0.38</sparkle:shortVersionString>
+            <title>1.0.39</title>
+            <pubDate>Thu, 04 Jun 2026 23:01:25 +0900</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="3FJQnr47w8eRS21MBy/3dW4zj9RFaLhj/90sdorp3AiHdWh5MuhSi6G3yumRALMGnRXttaRTF204Q7+ZjcrOAQ==" sparkle:length="614">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.38-42.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.38/UltraCat-1.0.38-42.dmg" length="3591233" type="application/octet-stream" sparkle:edSignature="t6eomRKjwZ7e+IblL62LvTjyGFCYinqWdlM4Wqzt54Pho+9I1lEgk7+ojTDF1MUO1Kql5t9DVwjpwnBa9m81Bw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="MO6CuNcOCvGbKkI3Znc0ukL+3+tG3XMkRlj2n1QrnmS6Ic49bYqbiFxYt+SXmUmR32ZVFAzfxpaOIYMpKra/AQ==" sparkle:length="893">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.39-43.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.39/UltraCat-1.0.39-43.dmg" length="3592108" type="application/octet-stream" sparkle:edSignature="OOtRXr54GR2w9nKkyMFfrbjXRLoR3Pajz15z/5+W3qW65TILBFpxDwHP3h2TWYilmTywfoxHPLFJryN+TSqtDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ABchaP62LRZFs8dlcs9K8ALSk1X876/nlQwG+BtLjuqDHNoioLoO+VT8cNx16rbi+S4Z4I4E+sv5eRhj9h69CA==
+edSignature: XxTeJkYOz2Q2TH6ztzqrRKoq7llFUdwvAAsKXCrhgirOEolG3qCh2VhCCEsAJwARkyPukFEByd86kFuS6zFpAA==
 length: 1306
 -->
