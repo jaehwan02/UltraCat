@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.36</title>
-            <pubDate>Wed, 03 Jun 2026 02:24:37 +0900</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
+            <title>1.0.37</title>
+            <pubDate>Thu, 04 Jun 2026 14:00:53 +0900</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="FlvvNHGTi67YsZ1jwFTDCumXTMz0qSdtx1j4aZO/eVelz87TZWWy8H7nMl2yv0Xtz6cZcuVjdV0FrpFij8wCCA==" sparkle:length="329">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.36-40.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.36/UltraCat-1.0.36-40.dmg" length="3591949" type="application/octet-stream" sparkle:edSignature="1GD1BnotIlCXyTLldmes27q79c7vpHTF18prSRRPyOAJJ+7BgxpR1vyCnEs3Q3fKTKbVxRq+TfAd5BPsA4+DDA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="SkqfU4Goq5BrYYZHIPc7lC+roILnDkGCwG2WQBy3st0+E8+vZlMxvhGyA1UDlKiBaFjn5V0PwFcdqUlb29yaAQ==" sparkle:length="436">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.37-41.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.37/UltraCat-1.0.37-41.dmg" length="3593411" type="application/octet-stream" sparkle:edSignature="ZigoVNk3OPdV08UUc9yNAd4kvtXNRMJTAbiP+5W5FJ2uCuc1357j+CMEsQNVY/FRb6/TmqFgTkD1vYZiXAEYAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: h11ZXiYWBYihiGPMPPvFv9NZgBkgcl/4W+aX1fMIQ2rPfW8aWZ/+1ieUWd/OfSK/Uxvk4USYA3Y0mYlCPhUTAQ==
+edSignature: IF9byFX3tc4VDuFxWz28rfbdzw9Q0LXY4M5P3njkJoJrWL4tvKQRxi8S25cOV/2DRB+orBHEa8opFJncLOGUDw==
 length: 1306
 -->
