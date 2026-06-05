@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.40</title>
-            <pubDate>Fri, 05 Jun 2026 08:37:38 +0900</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
+            <title>1.0.41</title>
+            <pubDate>Fri, 05 Jun 2026 09:00:03 +0900</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="7AREI187X7k4mAhW+8n9Rs1OEjNqHD3yWxKG+pERfLJQY/4MkACVTe9CCcN0fuqZnDE37T6jIdijfTPtceRpCQ==" sparkle:length="551">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.40-44.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.40/UltraCat-1.0.40-44.dmg" length="3593603" type="application/octet-stream" sparkle:edSignature="QnxYbjd3ag0Qj8V1z9AkEDbn2vhCA/LOcOSlbbLGJ75IjhfJqPCtn3QGuokg/+j38fUPTzNyj2K/+gxW62yOAA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="nijfTkGAssXVkQIvGzBv07N3z+QRmKP8PzwBgXY+GoS8971xgSJ5eqxWr5fjvXuGZrLJCdrqqsdYr3GiWh8TAw==" sparkle:length="555">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.41-45.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.41/UltraCat-1.0.41-45.dmg" length="3595440" type="application/octet-stream" sparkle:edSignature="lKDKXTlOSNV1Q0rbzQsQ5XbtrXeQ1Iv2sn/sODiZjoo5FPRY1MXqzA7F6CSXq1NHFcHrsv9Vb2xmaoM8a/mgCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oj+6LekyCCzklOiAJywGVPhBbDOzOJPgaNTAu1IpUN+hQ6keQw3644jY0/UnjtFMg6fLxPaH47pfIaHhVBF3CQ==
+edSignature: tJEiwMgn5so3lJJKgp/cWVr1usnGGa70q1zvCjlnNHws0XQTy3cpKHD8/TjHpHGdAbyhNUUmzGo88T81WtMOCA==
 length: 1306
 -->
