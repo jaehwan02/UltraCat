@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.41</title>
-            <pubDate>Fri, 05 Jun 2026 09:00:03 +0900</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
+            <title>1.0.42</title>
+            <pubDate>Fri, 05 Jun 2026 09:48:43 +0900</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="nijfTkGAssXVkQIvGzBv07N3z+QRmKP8PzwBgXY+GoS8971xgSJ5eqxWr5fjvXuGZrLJCdrqqsdYr3GiWh8TAw==" sparkle:length="555">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.41-45.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.41/UltraCat-1.0.41-45.dmg" length="3595440" type="application/octet-stream" sparkle:edSignature="lKDKXTlOSNV1Q0rbzQsQ5XbtrXeQ1Iv2sn/sODiZjoo5FPRY1MXqzA7F6CSXq1NHFcHrsv9Vb2xmaoM8a/mgCQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="faR4wQRv2rvAa5Ujo5ve8Ao4yfYfzukFTj1VRj3jWDKK3uEeN5R8Gqntb6LVXZ04qu6JTyJ686oP5LeNcy0hBg==" sparkle:length="538">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.42-46.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.42/UltraCat-1.0.42-46.dmg" length="3591741" type="application/octet-stream" sparkle:edSignature="0JdWEXXv8N/2tyPP+GYMHLQFycleA+PvJci9srb/kalNECsEHei0EZtODyRkea7ohFiu3adV1rCHBD11FgxhDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tJEiwMgn5so3lJJKgp/cWVr1usnGGa70q1zvCjlnNHws0XQTy3cpKHD8/TjHpHGdAbyhNUUmzGo88T81WtMOCA==
+edSignature: vnGkm1+IMpRUbQHymCC+k4mSWiuX8xLs5Fmh26jSJ4J0qn1SuhxGd3vQCHGBGK8MKfSeSCBVktfBZhB907K7Aw==
 length: 1306
 -->
