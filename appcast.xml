@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.42</title>
-            <pubDate>Fri, 05 Jun 2026 09:48:43 +0900</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
+            <title>1.0.43</title>
+            <pubDate>Fri, 05 Jun 2026 22:49:17 +0900</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="faR4wQRv2rvAa5Ujo5ve8Ao4yfYfzukFTj1VRj3jWDKK3uEeN5R8Gqntb6LVXZ04qu6JTyJ686oP5LeNcy0hBg==" sparkle:length="538">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.42-46.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.42/UltraCat-1.0.42-46.dmg" length="3591741" type="application/octet-stream" sparkle:edSignature="0JdWEXXv8N/2tyPP+GYMHLQFycleA+PvJci9srb/kalNECsEHei0EZtODyRkea7ohFiu3adV1rCHBD11FgxhDA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="RwPtI8Hb6Q6xr/iwzNgzKmVAZrfIWnSbgL8dd3T1O6kL3xG9dCEvE2xYIOZgwPuxEDmjlCspmCsCfdAccJ44Cg==" sparkle:length="757">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.43-47.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.43/UltraCat-1.0.43-47.dmg" length="3596531" type="application/octet-stream" sparkle:edSignature="EcjC7A9wwLmFqZLA9PXMaD/NCGCvBNSQ0G232LSUdt3SrbX2j06Pn2+N20DVNlbWevjRm4XZs8lMGei4uQWJAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vnGkm1+IMpRUbQHymCC+k4mSWiuX8xLs5Fmh26jSJ4J0qn1SuhxGd3vQCHGBGK8MKfSeSCBVktfBZhB907K7Aw==
+edSignature: vhpLqXBTobOjjRK8qbEHc/ALzLI6VAph4F3Bqp8/l8pkbso6YdMT+4igxs/oVrFbMHca6CwmufEA23LM1/HGAw==
 length: 1306
 -->
