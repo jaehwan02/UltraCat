@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.43</title>
-            <pubDate>Fri, 05 Jun 2026 22:49:17 +0900</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>1.0.43</sparkle:shortVersionString>
+            <title>1.0.44</title>
+            <pubDate>Sat, 06 Jun 2026 02:47:27 +0900</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="RwPtI8Hb6Q6xr/iwzNgzKmVAZrfIWnSbgL8dd3T1O6kL3xG9dCEvE2xYIOZgwPuxEDmjlCspmCsCfdAccJ44Cg==" sparkle:length="757">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.43-47.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.43/UltraCat-1.0.43-47.dmg" length="3596531" type="application/octet-stream" sparkle:edSignature="EcjC7A9wwLmFqZLA9PXMaD/NCGCvBNSQ0G232LSUdt3SrbX2j06Pn2+N20DVNlbWevjRm4XZs8lMGei4uQWJAQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="QcFQR7T8yStHvU9E2uO6OvILcnXpfkSdAQ+oNRvNtcGtbHCCqMUudMyy5KcGnVuIP81UpZ+3w2Pu6u2ikOsbAQ==" sparkle:length="687">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.44-48.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.44/UltraCat-1.0.44-48.dmg" length="3594047" type="application/octet-stream" sparkle:edSignature="SExvZX+Fk2qFCtDhLCz6XCu3lgp+pNrGs0bN305Goh+59Ktjq+oI9c0lWNS/jk2Dp+/mXgOtf5k4BZXhtbvbDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vhpLqXBTobOjjRK8qbEHc/ALzLI6VAph4F3Bqp8/l8pkbso6YdMT+4igxs/oVrFbMHca6CwmufEA23LM1/HGAw==
+edSignature: cXl9r8eQHjnIwaW03Wp2hl/rcp58OGmLrio8KXkTnnkP+rHB4cDPOwDqAXZfFKTejYrnPLRx4cOM+waRoi4WAA==
 length: 1306
 -->
