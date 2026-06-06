@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.46</title>
-            <pubDate>Sun, 07 Jun 2026 01:22:46 +0900</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>1.0.46</sparkle:shortVersionString>
+            <title>1.0.47</title>
+            <pubDate>Sun, 07 Jun 2026 02:13:26 +0900</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.0.47</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="S23k0jdSDRYcdepOq58dXUO9eBloTuL34R5ViMABJiP6UMxR5EU3w+UB5Bz0/bStyBEWT8Ywr1F6FUSoHwMQAA==" sparkle:length="692">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.46-50.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.46/UltraCat-1.0.46-50.dmg" length="6862092" type="application/octet-stream" sparkle:edSignature="VIYk+RZhczJBtduBikLxAG7H5lizy0NM4DmOpM3CmnHVfwQ09dG2wTslMfot8lMxwVWdMAK+Jkdwg+UaCl5WBw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="g++0lVU0A2YQvur6ntXydecyVWYyf63qJV+abaa44Ngc1JyE411JYFdwulauIIQtYxUv6HsqUvUI3hmE6UleDQ==" sparkle:length="759">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.47-51.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.47/UltraCat-1.0.47-51.dmg" length="6874476" type="application/octet-stream" sparkle:edSignature="SZofZCcvoaZD8V/H0ACOi2scN3T6982GhFfyCN3ZBnf6hmJLyrj731T5RmPzlZ0uKfxlsDfxg94ofSKJ8hOBBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /kWs11t5AQ7RaTavXhfLGI6zbgly19CFRmQ3zbHzHClyi4wuMzcXVn1WXk3tFoaDSjd5ofIVwwk3xA4mo4PUDw==
+edSignature: VsIjhxrowjf0CAEK/g+LP7BcC1WkuGSXi6ByDjltnZJjHbHMdZNPOcnP5GeELcpxmolYPv7ELDGXmp/XlAxDCg==
 length: 1306
 -->
