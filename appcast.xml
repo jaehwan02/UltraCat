@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.44</title>
-            <pubDate>Sat, 06 Jun 2026 02:47:27 +0900</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>1.0.44</sparkle:shortVersionString>
+            <title>1.0.45</title>
+            <pubDate>Sat, 06 Jun 2026 14:21:54 +0900</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.0.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="QcFQR7T8yStHvU9E2uO6OvILcnXpfkSdAQ+oNRvNtcGtbHCCqMUudMyy5KcGnVuIP81UpZ+3w2Pu6u2ikOsbAQ==" sparkle:length="687">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.44-48.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.44/UltraCat-1.0.44-48.dmg" length="3594047" type="application/octet-stream" sparkle:edSignature="SExvZX+Fk2qFCtDhLCz6XCu3lgp+pNrGs0bN305Goh+59Ktjq+oI9c0lWNS/jk2Dp+/mXgOtf5k4BZXhtbvbDQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="C0XymWlfHp1KpAlVRcVETj6JZ/XpQ4HgI8/KY94wD3R/WFri+nokv2/yhP2Cm69MmRQoI9booxp1h6NSBtfyCA==" sparkle:length="578">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.45-49.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.45/UltraCat-1.0.45-49.dmg" length="3629370" type="application/octet-stream" sparkle:edSignature="eQLwAVNpEkYOO9AVUL0J4Yj62iEYxeTEUM9CUUf+THoRnsMC75NV9FBXTDzJo1nOTQcj1SOwml3nUHe/mhSnBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cXl9r8eQHjnIwaW03Wp2hl/rcp58OGmLrio8KXkTnnkP+rHB4cDPOwDqAXZfFKTejYrnPLRx4cOM+waRoi4WAA==
+edSignature: sOLntsqZ2Tt7rT036mmawoqMpIovGEW4NmZr3jxIRT3yZZ08t5H/nRmE/I8t6s0JjWbJJhbUcGyaZN5J799hAg==
 length: 1306
 -->
