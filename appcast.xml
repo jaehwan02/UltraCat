@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.55</title>
-            <pubDate>Wed, 10 Jun 2026 00:20:07 +0900</pubDate>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>1.0.55</sparkle:shortVersionString>
+            <title>1.0.56</title>
+            <pubDate>Wed, 10 Jun 2026 08:06:46 +0900</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>1.0.56</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="kzpzjkfBvQX1lQXa0GDcauoxCEVaGRn3tHseJfpYe0ZenhEOANF6w9q2L6Fq1eccZUSBpcm+T+Ln+O4dX21sCQ==" sparkle:length="655">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.55-59.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.55/UltraCat-1.0.55-59.dmg" length="6900823" type="application/octet-stream" sparkle:edSignature="dJm90cKS0XlLz/+Y4sGs432BbdX3aMlimSO3yE2c0mLRgZNe8ciT6xWaPTEIcnSUX+HKl6Zvqb1bFjLT3YncDg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="1iHGARd+fPqsVR8iOmTx2Ch0vnf1pyeb7QfkCyOMOkbDe7MR4DILA7jmkcuOmsgPHlMnZEJCWDGo5gvRONIsBQ==" sparkle:length="700">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.56-60.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.56/UltraCat-1.0.56-60.dmg" length="6910665" type="application/octet-stream" sparkle:edSignature="CkGvcmGZyujtLdfgwJ4W5ZVFhHbNDAJbfKeY9yPs8gNHXwvF2SqRJEjyaVTnTcDdC30SaqXWmJENJxRh7Ij5Dg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2y9Q2nZfobLSryIzYGjD0rT+WP72mSPmgZr/YzEsjMHmlX7vQcqu0KCejTMnegG0/FtmqliKg0ESAZfTNPaqBQ==
+edSignature: h4LsMSzTWg4myZ37QdbGzTLpCvKVfHaHEDM6VgUjXBSyEdRMVCa6vVnntltd/nskYF3ovOZHwgYdJkvCZubkCg==
 length: 1306
 -->
