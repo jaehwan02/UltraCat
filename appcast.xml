@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.52</title>
-            <pubDate>Tue, 09 Jun 2026 13:28:16 +0900</pubDate>
-            <sparkle:version>56</sparkle:version>
-            <sparkle:shortVersionString>1.0.52</sparkle:shortVersionString>
+            <title>1.0.53</title>
+            <pubDate>Tue, 09 Jun 2026 13:58:23 +0900</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>1.0.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="8jwamaM8UyWjozrezrkvwAXey6vQPCJ46zceoTxF6TYvL08VyqGTvUJ3KIJYcti8MjLS8vEe3dsWFVK5j4Z8Bg==" sparkle:length="513">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.52-56.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.52/UltraCat-1.0.52-56.dmg" length="6879173" type="application/octet-stream" sparkle:edSignature="KzVTzDmveAv9EbG4PKv81ca9XNkC3tG2yrFbD8IDg0IJ3bh+R7pyQWS97Ri8k7BByU+UExLwq4lkaQHUUF7cCw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="McWBjakNEjK4frQjemlyMWwi8erP4oIWO2zo05r917frAnMrY6DECH2ZNrukJj/15IOdmWS3ih6n9kB9lrXXDg==" sparkle:length="629">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.53-57.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.53/UltraCat-1.0.53-57.dmg" length="6879036" type="application/octet-stream" sparkle:edSignature="TOFzoSbOZ4n7mU6Y0ctYpOeMU5sepK7xECkHvvxTcb9pzO/4JxApjjlSCsqjer3/CYuyD6dy03qHhhvaRxnzAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jWH1lRMZD8SiQqTFRERZU84jgasJPy8jUfRFE9CP4HSyfc3GKYWMC/beDLMZwUYJ71LUI9RybNXlTiuCH2SyDA==
+edSignature: lCOJgF/4OQ+GKuBjN3c30hFcq5lLDmprOKZVwRSW0oUEvFjJsXVaL8Cwj7acrDnY4QvFfTcBwCpQDjOl9/a+AQ==
 length: 1306
 -->
