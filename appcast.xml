@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.53</title>
-            <pubDate>Tue, 09 Jun 2026 13:58:23 +0900</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>1.0.53</sparkle:shortVersionString>
+            <title>1.0.54</title>
+            <pubDate>Tue, 09 Jun 2026 14:12:15 +0900</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.0.54</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="McWBjakNEjK4frQjemlyMWwi8erP4oIWO2zo05r917frAnMrY6DECH2ZNrukJj/15IOdmWS3ih6n9kB9lrXXDg==" sparkle:length="629">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.53-57.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.53/UltraCat-1.0.53-57.dmg" length="6879036" type="application/octet-stream" sparkle:edSignature="TOFzoSbOZ4n7mU6Y0ctYpOeMU5sepK7xECkHvvxTcb9pzO/4JxApjjlSCsqjer3/CYuyD6dy03qHhhvaRxnzAQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="9ssoXwAOhTuvDkn4SvMI3qplTCHmcyzrnqtyGtPlsZOdMvgr94MEzf1PMi9eJd696ZpUbp4yqTkALobPecMEDQ==" sparkle:length="590">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.54-58.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.54/UltraCat-1.0.54-58.dmg" length="6885450" type="application/octet-stream" sparkle:edSignature="WYNp908uez/heFBTVyEoRFVZk7yPzk56buXnOq/iZY8VoUG87CHUfo+IiCrq5B68iNKPiwBJUDHjPqoWhgAwCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: lCOJgF/4OQ+GKuBjN3c30hFcq5lLDmprOKZVwRSW0oUEvFjJsXVaL8Cwj7acrDnY4QvFfTcBwCpQDjOl9/a+AQ==
+edSignature: eV9fZSGeKTggIzB4jcTnt2p7m9TN90X84M2PlY/l5N8w3+RCb22nweib6RHE29MzcX4NbsqHbRAnvtfCBAbdDA==
 length: 1306
 -->
