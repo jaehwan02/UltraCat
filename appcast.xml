@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.51</title>
-            <pubDate>Tue, 09 Jun 2026 12:18:45 +0900</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>1.0.51</sparkle:shortVersionString>
+            <title>1.0.52</title>
+            <pubDate>Tue, 09 Jun 2026 13:28:16 +0900</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.0.52</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="FaAQ0RASudS9c7EFDKh3ROj+rM5jOzUHpFbuB7eluyml+CUm8vRt11agpL+W8FU1Jj3heWzutr/6iVQQQoGkBA==" sparkle:length="487">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.51-55.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.51/UltraCat-1.0.51-55.dmg" length="6878947" type="application/octet-stream" sparkle:edSignature="aZRuPyI3+aouDl5Xz8XgUv2pGlVypsKatQEwxMcv2SpjTTJOekDPQi0AohOUgTgOLV/9rf4WG2FHdkzQqxjWCg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="8jwamaM8UyWjozrezrkvwAXey6vQPCJ46zceoTxF6TYvL08VyqGTvUJ3KIJYcti8MjLS8vEe3dsWFVK5j4Z8Bg==" sparkle:length="513">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.52-56.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.52/UltraCat-1.0.52-56.dmg" length="6879173" type="application/octet-stream" sparkle:edSignature="KzVTzDmveAv9EbG4PKv81ca9XNkC3tG2yrFbD8IDg0IJ3bh+R7pyQWS97Ri8k7BByU+UExLwq4lkaQHUUF7cCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 32i1YOQcTPp8+b0dd43bkz6C/aTqqvt3MgkdeHlJLhMTcW0NhPvn4Euy3YpPFYOvbCoSf7qXdlekTQ2ofSgECA==
+edSignature: jWH1lRMZD8SiQqTFRERZU84jgasJPy8jUfRFE9CP4HSyfc3GKYWMC/beDLMZwUYJ71LUI9RybNXlTiuCH2SyDA==
 length: 1306
 -->
