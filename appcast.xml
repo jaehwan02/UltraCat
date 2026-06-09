@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.49</title>
-            <pubDate>Tue, 09 Jun 2026 11:24:16 +0900</pubDate>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
+            <title>1.0.50</title>
+            <pubDate>Tue, 09 Jun 2026 11:50:53 +0900</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>1.0.50</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="GcK6L2sHLCbF9oZQJMV2J5QKzpHV8Jn5v8eoJdGtLASYLJBTFHnt+oI8EVp/eMzk/QaJjBYbihwK5TkAv8MvAw==" sparkle:length="545">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.49-53.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.49/UltraCat-1.0.49-53.dmg" length="6874504" type="application/octet-stream" sparkle:edSignature="0BCMfXaDA1qwKJF72Y9qRJyxqNavrr+70E7k/5DSSqFvLVhmtZ2kTSoZo6bVLEEZMrGMEKUxBChIbEPpzjTLCg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="+ihZqWoz0Xebztmim+R+nyNob/O8rNh+aNaBPlndO29fvXXAkDgjdUFBMDi0OKTRzb3HuzK8zysH2eeLOpJADQ==" sparkle:length="545">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.50-54.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.50/UltraCat-1.0.50-54.dmg" length="6878094" type="application/octet-stream" sparkle:edSignature="isx/nzaIJwi+D8dfjdSI9LmJHl2wESm2iBrG7TeDMtAYq1chE6Uc7L/tZ1iUlqtxyEkq8hHJSf/mLCb44vhdCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hysm+haY0tvvAxuG1S1yqdc4n2HrsNO0CzlG7m3OeTlezjXVHcXLiBDj8mJZ5WAswQYnv2pCB6CRQ3vtVLWQCA==
+edSignature: 53iwRbCCDH2KH5ZdBAYbQK7/LnuxLgO7j5hgCzSTtu+Ir9Xf02GfEBtoFRfPWPqAeWrgGQFG2jJHFSRIfvzTBA==
 length: 1306
 -->
