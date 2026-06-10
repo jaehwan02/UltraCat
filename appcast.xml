@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.56</title>
-            <pubDate>Wed, 10 Jun 2026 08:06:46 +0900</pubDate>
-            <sparkle:version>60</sparkle:version>
-            <sparkle:shortVersionString>1.0.56</sparkle:shortVersionString>
+            <title>1.0.57</title>
+            <pubDate>Thu, 11 Jun 2026 00:16:14 +0900</pubDate>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>1.0.57</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="1iHGARd+fPqsVR8iOmTx2Ch0vnf1pyeb7QfkCyOMOkbDe7MR4DILA7jmkcuOmsgPHlMnZEJCWDGo5gvRONIsBQ==" sparkle:length="700">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.56-60.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.56/UltraCat-1.0.56-60.dmg" length="6910665" type="application/octet-stream" sparkle:edSignature="CkGvcmGZyujtLdfgwJ4W5ZVFhHbNDAJbfKeY9yPs8gNHXwvF2SqRJEjyaVTnTcDdC30SaqXWmJENJxRh7Ij5Dg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="ssZI7rwbyUzoWGnzRMPM09EYysA6TZnSNlLOMkP5lcbllm5qz2VbE1U98yK8CTbq7jb0PPsC4ycVioCYxvxIBg==" sparkle:length="474">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.57-61.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.57/UltraCat-1.0.57-61.dmg" length="6910243" type="application/octet-stream" sparkle:edSignature="IfnoUpuynlwvTMA7CtcAlrSEetrjhqBTcj0Pyfyk/TfwkP7A1srgP+l49QZqq8fnG5sqK6Dj/cx3iBIwPm0hCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: h4LsMSzTWg4myZ37QdbGzTLpCvKVfHaHEDM6VgUjXBSyEdRMVCa6vVnntltd/nskYF3ovOZHwgYdJkvCZubkCg==
+edSignature: wglgsN8kn35oUrefn5l3yGoO7AT6WSZhuUUDcc0/b+EFHkLmKhwNhoRweXadGn1WasG5fjYCJS8BNncioBonAg==
 length: 1306
 -->
