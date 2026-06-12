@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.57</title>
-            <pubDate>Thu, 11 Jun 2026 00:16:14 +0900</pubDate>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>1.0.57</sparkle:shortVersionString>
+            <title>1.0.58</title>
+            <pubDate>Fri, 12 Jun 2026 14:21:56 +0900</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="ssZI7rwbyUzoWGnzRMPM09EYysA6TZnSNlLOMkP5lcbllm5qz2VbE1U98yK8CTbq7jb0PPsC4ycVioCYxvxIBg==" sparkle:length="474">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.57-61.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.57/UltraCat-1.0.57-61.dmg" length="6910243" type="application/octet-stream" sparkle:edSignature="IfnoUpuynlwvTMA7CtcAlrSEetrjhqBTcj0Pyfyk/TfwkP7A1srgP+l49QZqq8fnG5sqK6Dj/cx3iBIwPm0hCA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="WysFT+IZs9+TCpYcMG9cdc610E7dsdWriUY/eAony0V2spciZKw67Ag45qwXqhoDSABXxVaCExoKJM8utuN0Bg==" sparkle:length="525">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.58-62.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.58/UltraCat-1.0.58-62.dmg" length="6912322" type="application/octet-stream" sparkle:edSignature="o/p/CMll8Yv54bA78Jsu68FvsYSJxo8fkw9UH417ImcN+8UxEwEPHotfbCiH6ZTdTFypjmFbKou3sCooT5HiBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: wglgsN8kn35oUrefn5l3yGoO7AT6WSZhuUUDcc0/b+EFHkLmKhwNhoRweXadGn1WasG5fjYCJS8BNncioBonAg==
+edSignature: 9Jubyma1sB+jaXsre41QED6MXuXTsgYrKy+3lUptkq5JQdb7em5VzvGcWK2Ofy1ZVhWLOvvBr2/ktQx4n816Cg==
 length: 1306
 -->
