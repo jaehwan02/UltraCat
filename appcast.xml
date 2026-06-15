@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.58</title>
-            <pubDate>Fri, 12 Jun 2026 14:21:56 +0900</pubDate>
-            <sparkle:version>62</sparkle:version>
-            <sparkle:shortVersionString>1.0.58</sparkle:shortVersionString>
+            <title>1.0.59</title>
+            <pubDate>Mon, 15 Jun 2026 10:21:37 +0900</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="WysFT+IZs9+TCpYcMG9cdc610E7dsdWriUY/eAony0V2spciZKw67Ag45qwXqhoDSABXxVaCExoKJM8utuN0Bg==" sparkle:length="525">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.58-62.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.58/UltraCat-1.0.58-62.dmg" length="6912322" type="application/octet-stream" sparkle:edSignature="o/p/CMll8Yv54bA78Jsu68FvsYSJxo8fkw9UH417ImcN+8UxEwEPHotfbCiH6ZTdTFypjmFbKou3sCooT5HiBQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="9D6OU3P9f06kRvNh9+SHFaVsm3/LyREokrc+BeT9LYdAMuq7x2ihMz59J9cp9KUf6ys/OQujnL6h+o9DzEVpDQ==" sparkle:length="514">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.59-63.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.59/UltraCat-1.0.59-63.dmg" length="6923387" type="application/octet-stream" sparkle:edSignature="F3WB6gu0/mjoXOdK9go5xlYxnkzfFqOHw2kTIkJc4IpTA9jsuFN+6tut1+QmNcjy0PUQdaTtz92/QfhJC73ADQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9Jubyma1sB+jaXsre41QED6MXuXTsgYrKy+3lUptkq5JQdb7em5VzvGcWK2Ofy1ZVhWLOvvBr2/ktQx4n816Cg==
+edSignature: Qqm2iN+V7z1aT1KYepsWP2lcWm9psw3uq9CQyAd0C0BWdVQI75bX1zXkq77h0MvBGkYVcbs1xHA/RJEYF2FDAQ==
 length: 1306
 -->
