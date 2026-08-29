@@ -23,9 +23,10 @@ After downloading the DMG file, open it and drag `UltraCat` into the `Applicatio
 
 ## Demo
 
-<img width="700" alt="모니터링 상태 스크린샷" src="https://github.com/user-attachments/assets/c272bf85-da09-44cd-b3dd-c1195d6940c8" />
-<img width="700" alt="팬 제어 기능 스크린샷" src="https://github.com/user-attachments/assets/3df9d6f4-4a5f-4802-b624-93f509ee12ed" />
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/7027824f-0036-44ea-8443-063013e01e6f" />
+<img width="622" height="588" alt="image" src="https://github.com/user-attachments/assets/c9c499eb-53f4-4d25-b2d3-514c9f938a3b" />
+<img width="622" height="480" alt="image" src="https://github.com/user-attachments/assets/bc24126f-da78-4cc2-9035-5d957662100e" />
+<img width="622" height="459" alt="image" src="https://github.com/user-attachments/assets/a07000f2-f3c9-43c7-845f-9a7a2134a28c" />
+
 
 
 ## Updates
