@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.62</title>
-            <pubDate>Tue, 11 Aug 2026 16:06:26 +0900</pubDate>
-            <sparkle:version>66</sparkle:version>
-            <sparkle:shortVersionString>1.0.62</sparkle:shortVersionString>
+            <title>1.0.63</title>
+            <pubDate>Sat, 29 Aug 2026 14:16:18 +0900</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>1.0.63</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="4GmVmjPgpB4UrcPXtkNrOU126iTvcZQW7wbTMnGA7p9kg4fUsWzTRM4RLYGVPmwopajM/KrXASdgeYpzYfncDw==" sparkle:length="490">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.62-66.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.62/UltraCat-1.0.62-66.dmg" length="7467682" type="application/octet-stream" sparkle:edSignature="kFVBLWqqonWf40YtGi3dPlYofK2UYWe9QYQg490HD4zo21+hclAwRoJsLua2qHngTGxjk7Id/bSFMwk/4WJfBQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="aqBDz0Ov/LJvTTbjtq6+HPN5kwjxsEy8MT2FV/Gzb3QgcB1zYdlh/ry3CmwklRph9AoctTqoIw9k1JEEiyEhAg==" sparkle:length="571">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.63-67.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.63/UltraCat-1.0.63-67.dmg" length="7467789" type="application/octet-stream" sparkle:edSignature="sEWWTHOO4h42WyXGR/CeLsE4ToBP127ZU/9Ttm0KhnFFsbOhS8C6JxGhyQPG17S1RlWWui87/Ee7ue0CLRk+Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XX/9/U7dWaX1rph1Iwqn+oNtimYajQYYDeEQr8QDpfLoVpHC1Gmo9C/BzyV75VJ25p7YcYxRjeRBZfe//H4zDg==
+edSignature: U7N8M77/zogH/7zMjILStv3MapL6EYTq7fRiaZ3pno9ucXnANi4gjF+pO1waXI46UkenDqMd2e8mlEgVPuyGDA==
 length: 1306
 -->
