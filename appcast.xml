@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.63</title>
-            <pubDate>Sat, 29 Aug 2026 14:16:18 +0900</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>1.0.63</sparkle:shortVersionString>
+            <title>1.0.64</title>
+            <pubDate>Tue, 01 Sep 2026 22:37:56 +0900</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>1.0.64</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="aqBDz0Ov/LJvTTbjtq6+HPN5kwjxsEy8MT2FV/Gzb3QgcB1zYdlh/ry3CmwklRph9AoctTqoIw9k1JEEiyEhAg==" sparkle:length="571">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.63-67.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.63/UltraCat-1.0.63-67.dmg" length="7467789" type="application/octet-stream" sparkle:edSignature="sEWWTHOO4h42WyXGR/CeLsE4ToBP127ZU/9Ttm0KhnFFsbOhS8C6JxGhyQPG17S1RlWWui87/Ee7ue0CLRk+Bw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="dZ4UEAGU0NPB6s5qdDb8Wddh08/j0G7IUdixo8vi9Sw2RFPUvJkYY3nsygqR9UTc9GLJz0plTClFR6nORNB5Dw==" sparkle:length="729">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.64-68.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.64/UltraCat-1.0.64-68.dmg" length="7479270" type="application/octet-stream" sparkle:edSignature="0SZj2inUMANzdqLjqYe6tWRO+2MZLMdqRO1YGYdyKOmyqabibrRH30Xd45LAWLK7r+EyCbpl28TRq0NLZj9ECA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: U7N8M77/zogH/7zMjILStv3MapL6EYTq7fRiaZ3pno9ucXnANi4gjF+pO1waXI46UkenDqMd2e8mlEgVPuyGDA==
+edSignature: glChfUJwVG/MY8AvDxJVGdXS4jAkzqS+VE9yhLUrYbb7Mhlopo+rQEBTMp5Mof5AFpK99pWBAFEVH2NGEc7eDQ==
 length: 1306
 -->
