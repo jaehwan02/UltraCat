@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.67</title>
-            <pubDate>Fri, 18 Sep 2026 02:09:02 +0900</pubDate>
-            <sparkle:version>71</sparkle:version>
-            <sparkle:shortVersionString>1.0.67</sparkle:shortVersionString>
+            <title>1.0.68</title>
+            <pubDate>Fri, 18 Sep 2026 08:35:18 +0900</pubDate>
+            <sparkle:version>72</sparkle:version>
+            <sparkle:shortVersionString>1.0.68</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="khyEmSxfXot4y9sdfRzjp/GarYKWLs5O4uOIUPFLuxgAIM/nU/Q6vesijsB4KD0P+M13KG2pf0KVnMWG0ehKCQ==" sparkle:length="830">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.67-71.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.67/UltraCat-1.0.67-71.dmg" length="7468264" type="application/octet-stream" sparkle:edSignature="HNuYTRJXPYZFX1wGcflnABcHeYX1XMWjYEnt8/KfBVGsOyEh+4jzXErrjT0BC5a4rxnLmQor4N3PGaDVViMqCA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="Qq+9lnj2iY86F0BcJ4pTNORNrjKke1HqI9o4XwfTyMRlJPzqO06S4zxEjawSjIRwmszn0VXG5XInBlXgPmDBDw==" sparkle:length="1008">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.68-72.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.68/UltraCat-1.0.68-72.dmg" length="7977726" type="application/octet-stream" sparkle:edSignature="pO/pRLJebefZXoW/cRDc3RLvrpPgVPUGgmlS2plUAgwWKSI/9c2NmznOnXgb2rmB3MGV0/KEc/IC/hyY6fYDDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XvElqg8Q8Jk+WRRPRdN2wYXFW2cUGFOf1ksbThJwsZ1fq7ncRiF6XtBmkxNoj0UXp65FQEcuGO49jL80Vi33Cw==
-length: 1306
+edSignature: MkQ/M7+Blty83OkWuKpMNqhNJ3+CFFJ32LuBph61+o9lmutjsUeOg3s62jwOTV1RXg0GB2mRhvlAiG+M3SqMBQ==
+length: 1307
 -->
