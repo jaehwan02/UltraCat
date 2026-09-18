@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>UltraCat</title>
         <item>
-            <title>1.0.68</title>
-            <pubDate>Fri, 18 Sep 2026 08:35:18 +0900</pubDate>
-            <sparkle:version>72</sparkle:version>
-            <sparkle:shortVersionString>1.0.68</sparkle:shortVersionString>
+            <title>1.0.69</title>
+            <pubDate>Fri, 18 Sep 2026 19:52:57 +0900</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>1.0.69</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="Qq+9lnj2iY86F0BcJ4pTNORNrjKke1HqI9o4XwfTyMRlJPzqO06S4zxEjawSjIRwmszn0VXG5XInBlXgPmDBDw==" sparkle:length="1008">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.68-72.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.68/UltraCat-1.0.68-72.dmg" length="7977726" type="application/octet-stream" sparkle:edSignature="pO/pRLJebefZXoW/cRDc3RLvrpPgVPUGgmlS2plUAgwWKSI/9c2NmznOnXgb2rmB3MGV0/KEc/IC/hyY6fYDDA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="goIKjtoit+yvm/4yRKwGJJm/5TDFaOZmKAXmnrYv/UYHzxNcmGGwIfbI2iB/xDp8iBUIc4wfDVgy9tsETfIjAQ==" sparkle:length="1008">https://jaehwan02.github.io/UltraCat/UltraCat-1.0.69-73.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/jaehwan02/UltraCat/releases/download/v1.0.69/UltraCat-1.0.69-73.dmg" length="8024981" type="application/octet-stream" sparkle:edSignature="ko1ublCrIDLJJf+5rcaIyGGziNlncpZ7qfSK0sNFen2p+CE9l6oU5XxgXn68gaZJSM1fAxepoXRXgjp8WaqVDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: MkQ/M7+Blty83OkWuKpMNqhNJ3+CFFJ32LuBph61+o9lmutjsUeOg3s62jwOTV1RXg0GB2mRhvlAiG+M3SqMBQ==
+edSignature: /xibno1jwAxjnNcscXsytTovjx9FDsrTyfFlHOrClHKq3HzeXkIAnrvQdqfLWPHxLQ1TV2m8KBnl4rMMsb0+Aw==
 length: 1307
 -->
